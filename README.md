@@ -4,11 +4,7 @@
 
 <p align="center">
   <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
-
-<p align="center">
-  <img alt="Happy" src=".github/happy.png" width="100%">
+  <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ## Tecnologias
